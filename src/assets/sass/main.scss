@@ -1,0 +1,11 @@
+$primary: #272343;
+$secondary: #bae8e8;
+$info: #272343;
+
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+@import "node_modules/bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
